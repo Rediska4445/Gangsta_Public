@@ -1,0 +1,5 @@
+money:244584
+gun:Glock
+current_ammo:12
+ammo:870
+health:1208
